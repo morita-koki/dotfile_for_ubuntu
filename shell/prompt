@@ -1,0 +1,3 @@
+#!/usr/bin/zsh
+
+PS1='%F{blue}[%n]%f %1~ %# '
